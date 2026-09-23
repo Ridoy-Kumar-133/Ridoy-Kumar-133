@@ -94,10 +94,19 @@ and improving my problem-solving skills through practice.
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ridoy-Kumar-133&show_icons=true&theme=tokyonight)](https://github.com/Ridoy-Kumar-133)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ridoy-Kumar-133&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
+  />
+</p>
 
-
-[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ridoy-Kumar-133&layout=compact&theme=tokyonight)](https://github.com/Ridoy-Kumar-133)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridoy-Kumar-133&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
+</p>
 
 <p align="center">
   <img
