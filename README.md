@@ -96,25 +96,10 @@ and improving my problem-solving skills through practice.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Ridoy-Kumar-133&show_icons=true&theme=tokyonight"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridoy-Kumar-133&layout=compact&theme=tokyonight"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Ridoy-Kumar-133&theme=tokyonight"
+    src="https://streak-stats.demolab.com?user=Ridoy-Kumar-133&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
-
 
 
 
