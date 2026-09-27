@@ -1,6 +1,7 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:4CAF50&height=220&section=header&text=Ridoy%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+    src="./assets/profile-banner.png"
+    alt="Ridoy Kumar Portfolio Banner"
     width="100%"
   />
 </p>
