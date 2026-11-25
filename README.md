@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Ridoy-Kumar-133/Ridoy-Kumar-133/main/profile-banner.png"
+    [src="https://raw.githubusercontent.com/Ridoy-Kumar-133/Ridoy-Kumar-133/main/profile-banner.png"](https://github.com/Ridoy-Kumar-133/Github-images/blob/main/4bedc25f-a20f-46ce-88ce-22ad75956f74.png)
     alt="Ridoy Kumar Portfolio Banner"
     width="100%"
   />
